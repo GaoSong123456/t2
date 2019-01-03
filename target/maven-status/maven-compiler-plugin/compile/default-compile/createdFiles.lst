@@ -1,0 +1,10 @@
+com\gs\controller\DepartmentController.class
+com\gs\vo\DepartmentVo.class
+com\gs\mapper\DepartmentMapper.class
+com\gs\controller\JfreechartController.class
+com\gs\pojo\Employee.class
+com\gs\service\DepartmentService.class
+com\gs\service\impl\DepartmentServiceImpl.class
+com\gs\controller\PoiController.class
+com\gs\vo\DepartmentchartVo.class
+com\gs\pojo\Department.class
